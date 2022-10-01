@@ -1,3 +1,5 @@
 some text
 
-changes to new branch
+changes to new 
+
+change from new branch
